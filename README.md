@@ -13,9 +13,9 @@
 
 <h2 align="left">Languages and Tools :</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,html,css,js,bootstrap,materialui,react,tailwind)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=expressjs,nodejs,mongodb,powershell,vscode,git,github)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=gcp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,html,css,js,bootstrap,,react,vite,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=expressjs,nodejs,redux,react-routermongodb,powershell,postman,netlify,kubernetes,docker,vscode,vercel,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=gcp,azure,firebase,figma,tensorflow,sklearn,pytorch,anaconda)](https://skillicons.dev)
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
@@ -31,9 +31,7 @@
 ## Let's Connect...
 <a href = "https://www.linkedin.com/in/disha02/"><img src="https://skillicons.dev/icons?i=linkedin" width="38px"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://leetcode.com/disha815/" ><img  src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg" alt="@shagunmengi003" width="60px" height="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://twitter.com/DishaArora83185?t=L7oNKVoosMoaIlAbKMBMVA&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="katyal_udit" height="30" width="40" /></a>
 <a href="https://www.geeksforgeeks.org/user/dishaarora193/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="classyallrounder" height="30" width="40" /></a>
-
 <a href="https://twitter.com/DishaArora83185?t=L7oNKVoosMoaIlAbKMBMVA&s=09" ><img  src="https://user-images.githubusercontent.com/17762967/42728663-26ebdb04-87dd-11e8-928f-fb01479a2ce1.png" alt="@shagunmengi003" width="38px" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-[<a href="mailto:shagunmengi003@gmail.com"><img src="https://cdn.iconscout.com/icon/free/png-256/email-1818373-1541480.png" width="30px" height="30px"></a>
+[<a href="mailto:dishaarora193@gmail.com"><img src="https://cdn.iconscout.com/icon/free/png-256/email-1818373-1541480.png" width="30px" height="30px"></a>
 ](mailto:shagunmengi003@gmail.com)&nbsp;&nbsp;&nbsp;&nbsp;
