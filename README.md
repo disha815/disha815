@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&center=true&width=800&lines=Web+Developement;Learning+DSA;Exploring+Tech)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&center=true&width=800&lines=Exploring+Tech;Learning+AI+/+ML;Learning+DSA;Web+Developement)](https://git.io/typing-svg)
 
 
 # Hi I'm Disha Arora  👋
