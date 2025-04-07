@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&center=true&width=800&lines=Exploring+Tech;AI+/+ML+Enthusiast;Web+Developement;Learning+DSA)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&center=true&width=800&lines=Exploring+Tech;AI+/+ML+Enthusiast;Web+Development;Learning+DSA)](https://git.io/typing-svg)
 
 
 # Hi I'm Disha Arora  👋
@@ -20,7 +20,7 @@
 <h2 align="left">Languages and Tools :</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,html,css,js,bootstrap,sass,react,vite,tailwind)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=expressjs,nodejs,redux,mongodb,powershell,postman,netlify,AWS,kubernetes,docker,vscode,vercel,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=expressjs,nodejs,redux,mongodb,powershell,postman,netlify,kubernetes,docker,vscode,vercel,git,github)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=gcp,azure,firebase,figma,tensorflow,sklearn,pytorch,anaconda)](https://skillicons.dev)
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
