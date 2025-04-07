@@ -19,8 +19,8 @@
 
 <h2 align="left">Languages and Tools :</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,html,css,js,bootstrap,,react,vite,tailwind)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=expressjs,nodejs,redux,react-routermongodb,powershell,postman,netlify,kubernetes,docker,vscode,vercel,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,html,css,js,bootstrap,sass,react,vite,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=expressjs,nodejs,redux,mongodb,powershell,postman,netlify,AWS,kubernetes,docker,vscode,vercel,git,github)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=gcp,azure,firebase,figma,tensorflow,sklearn,pytorch,anaconda)](https://skillicons.dev)
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
@@ -38,7 +38,6 @@
 
 <a href="https://linkedin.com/in/disha02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="namanm19" height="30" width="40" /></a>
 <a href="https://twitter.com/DishaArora83185?t=L7oNKVoosMoaIlAbKMBMVA&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="katyal_udit" height="30" width="40" /></a>
-<a href="https://instagram.com/namanm19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="namanm19" height="30" width="40" /></a>
 <a href="https://leetcode.com/disha815/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="namanm19" height="30" width="40" /></a>
 <a href="https://www.geeksforgeeks.org/user/dishaarora193/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="classyallrounder" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/dishaarora193" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="maheshwarinaman1" height="30" width="40" /></a>
