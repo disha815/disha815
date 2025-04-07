@@ -1,14 +1,20 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&center=true&width=800&lines=Exploring+Tech;Learning+AI+/+ML;Learning+DSA;Web+Developement)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&center=true&width=800&lines=Exploring+Tech;AI+/+ML+Enthusiast;Web+Developement;Learning+DSA)](https://git.io/typing-svg)
 
 
 # Hi I'm Disha Arora  👋
 
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=disha815&label=Profile%20views&color=0e75b6&style=flat" alt="disha815" /> </p>
 
+ 
 * 🔭 Exploring tech to expand my skillset.
 * 🌱 I’m currently learning AI/ML and DSA.
-* 🤝 I’m looking to collaborate on open source projects.
+* 💬 Ask me about **Web Dev, Python and SQL.**
+* 🌱 I’m recently exploring the world of **Generative AI and Prompt Engineering.**
+* 👯 I’m looking to collaborate on open source projects and **Industry Projects.**
+* 🤝 I’m looking for **Jobs and other opportunities.**
 * 👩 Pronouns: she/her.
 * ❤️ I love reading self-help books.
+* 📫 How to reach me **dishaarora193@gmail.com**
 
 
 <h2 align="left">Languages and Tools :</h2>
@@ -29,9 +35,10 @@
 
 
 ## Let's Connect...
-<a href = "https://www.linkedin.com/in/disha02/"><img src="https://skillicons.dev/icons?i=linkedin" width="38px"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://leetcode.com/disha815/" ><img  src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg" alt="@shagunmengi003" width="60px" height="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://linkedin.com/in/disha02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="namanm19" height="30" width="40" /></a>
+<a href="https://twitter.com/DishaArora83185?t=L7oNKVoosMoaIlAbKMBMVA&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="katyal_udit" height="30" width="40" /></a>
+<a href="https://instagram.com/namanm19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="namanm19" height="30" width="40" /></a>
+<a href="https://leetcode.com/disha815/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="namanm19" height="30" width="40" /></a>
 <a href="https://www.geeksforgeeks.org/user/dishaarora193/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="classyallrounder" height="30" width="40" /></a>
-<a href="https://twitter.com/DishaArora83185?t=L7oNKVoosMoaIlAbKMBMVA&s=09" ><img  src="https://user-images.githubusercontent.com/17762967/42728663-26ebdb04-87dd-11e8-928f-fb01479a2ce1.png" alt="@shagunmengi003" width="38px" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-[<a href="mailto:dishaarora193@gmail.com"><img src="https://cdn.iconscout.com/icon/free/png-256/email-1818373-1541480.png" width="30px" height="30px"></a>
-](mailto:shagunmengi003@gmail.com)&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.hackerrank.com/profile/dishaarora193" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="maheshwarinaman1" height="30" width="40" /></a>
